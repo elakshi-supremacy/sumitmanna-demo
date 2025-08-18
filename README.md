@@ -1,2 +1,2 @@
 # Portfolio_Project
-Have a look at my verry first Portfolio
+Have a look at my very first Portfolio.
