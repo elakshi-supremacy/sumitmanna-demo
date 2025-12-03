@@ -17,8 +17,8 @@
 
 🛠 Tech Stack
 **Languages:** HTML, CSS, JavaScript, Python (learning)  
-**Tools:** Git, GitHub, VS Code  
-**Learning:** DSA, Python Backend (Flask/FastAPI), Responsive Web Dev  
+**Tools:** Git, GitHub, VS Code , CodeTantra
+**Learning:** Python, Responsive Web Dev
 
 ---
 
